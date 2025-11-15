@@ -45,4 +45,4 @@ This dataset exlpores the number of deaths caused by different natural disasters
 Here is a visualization from the Homework 
 <iframe scr="dailyavg.html" width="1000" height="600" style="border:none">
  <p>Your browser does not support iframes, </p>
-</ifrane>
+</iframe>
