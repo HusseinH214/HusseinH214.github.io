@@ -28,5 +28,5 @@ areas in different countries.
 
 This dataset exlpores the number of deaths caused by different natural disasters in different countries.
 
-###Project Ideas
+### Project Ideas
 +
