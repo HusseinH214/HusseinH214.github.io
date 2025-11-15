@@ -42,7 +42,7 @@ This dataset exlpores the number of deaths caused by different natural disasters
   * Additionally, it would be interesting to see where we progress has halted or falling behind, and when.
 # Hw 3: Where's Schueller Visualization
 Here is a visualization from the Homework 
-<iframe src="dailyavg.html" width="100%" height="600px" style="border:none;">
+<iframe src="dailyavg.html" width="100%" height="300" style="border:none;">
  <p>Your browser does not support iframes.</p>
 </iframe>
 
