@@ -1,8 +1,8 @@
-#Main Page
+#M ain Page
 This is page is meant to serve as a default github page
 
-##Data Sources and Project Ideas:
-###Data Sources:
+## Data Sources and Project Ideas:
+### Data Sources:
 [Child mortality vs. share in extreme poverty, 2023](https://ourworldindata.org/grapher/extreme-poverty-vs-child-mortality?country=AUS~RUS~USA~BRA~IND~NGA)
 
 Child mortality is the share of children who die before reaching their fifth birthday, versus the share of the
