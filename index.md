@@ -1,4 +1,4 @@
-#M ain Page
+# Main Page
 This is page is meant to serve as a default github page
 
 ## Data Sources and Project Ideas:
