@@ -43,6 +43,6 @@ This dataset exlpores the number of deaths caused by different natural disasters
 
 # Hw 3: Where's Schueller Visualization
 Here is a visualization from the Homework 
-<iframe scr="dailyavg.html" width="1000" height="600" style="border:none">
- <p>Your browser does not support iframes, </p>
+<iframe scr="dailyavg.html" width="100%" height="600" style="border:none;">
+ <p>Your browser does not support iframes.</p>
 </iframe>
