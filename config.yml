@@ -1,12 +1,15 @@
-title: Portfolio
-author: Hussein
-github_username: HusseinH214
-url: "https://husseinh214.github.io"   
-baseurl: ""
+# Site settings
+title: Data Analysis Portfolio
+description: A collection of data sources and project ideas
+baseurl: "" # Leave empty if using username.github.io
+url: "" # Your site URL
 
+# Build settings
 markdown: kramdown
-plugins:
-  - jekyll-seo-tag
+theme: jekyll-theme-minimal
 
-sass:
-     sass_dir: assets/css
+# Exclude files
+exclude:
+  - README.md
+  - Gemfile
+  - Gemfile.lock
