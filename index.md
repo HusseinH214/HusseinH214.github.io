@@ -2,11 +2,7 @@
 layout: default
 title: Home
 ---
-title: Portfolio
-author: Hussein
-github_username: HusseinH214
-url: "https://husseinh214.github.io/HusseinH214.github.io/"   
-baseurl: "/HusseinH214.github.io"
+
 # Main Page
 This is page is meant to serve as a default github page
 
