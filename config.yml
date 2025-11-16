@@ -1,15 +1,5 @@
-# Site settings
 title: Data Analysis Portfolio
 description: A collection of data sources and project ideas
-baseurl: "" # Leave empty if using username.github.io
-url: "https://husseinh214.github.io/" # Your site URL
 
-# Build settings
+# No theme needed - we're using custom layout
 markdown: kramdown
-theme: jekyll-theme-minimal
-
-# Exclude files
-exclude:
-  - README.md
-  - Gemfile
-  - Gemfile.lock
