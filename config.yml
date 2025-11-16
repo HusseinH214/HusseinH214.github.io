@@ -3,3 +3,7 @@ author: Hussein
 github_username: HusseinH214
 url: "https://husseinh214.github.io"   
 baseurl: ""
+
+markdown: kramdown
+plugins:
+  - jekyll-seo-tag
