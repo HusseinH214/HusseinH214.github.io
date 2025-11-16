@@ -7,3 +7,6 @@ baseurl: ""
 markdown: kramdown
 plugins:
   - jekyll-seo-tag
+
+sass:
+     sass_dir: assets/css
