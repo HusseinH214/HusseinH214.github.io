@@ -2,7 +2,7 @@
 title: Data Analysis Portfolio
 description: A collection of data sources and project ideas
 baseurl: "" # Leave empty if using username.github.io
-url: "" # Your site URL
+url: "https://husseinh214.github.io/" # Your site URL
 
 # Build settings
 markdown: kramdown
